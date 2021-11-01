@@ -24,3 +24,6 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+
+## Design in Figma
+https://www.figma.com/file/6U2EZIdd7M2a9n1GWk9EzD/JTD?node-id=2%3A2
